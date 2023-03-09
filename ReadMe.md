@@ -1,3 +1,7 @@
 # Week 3 Lab: Verification
 
-Fill out this readme as required by lab guidance
+Exercise 2:
+The lsfr doesn't need exhaustive testing and requires just a few inputs with correct outputs to confirm it works.
+
+Exercise 4:
+Setting .sel to different values would allow testing of the don't cares.
